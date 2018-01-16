@@ -2,7 +2,7 @@
 
 Alle Gesetzestexte aus gesetze-im-internet.de als SQL-Dump und XML sowie Crawler Scripte zur aktualisierung.
 
-Letzte Aktualisierung: Jan 2018 (insgesamt ca. 6384)
+Letzte Aktualisierung: Jan 2018 (insgesamt 6384)
 
 Sprache: Python3
 
